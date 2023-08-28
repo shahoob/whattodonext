@@ -1,4 +1,6 @@
-# list
+# `list`
+
+Internal library housing the stuff for a to do list
 
 This library was generated with [Nx](https://nx.dev).
 
